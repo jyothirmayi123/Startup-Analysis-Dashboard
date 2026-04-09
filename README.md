@@ -1,4 +1,3 @@
-# Startup-Analysis-Dashboard
 # 📊 Startup Analysis Dashboard
 
 ## 🚀 Overview
